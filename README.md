@@ -20,6 +20,15 @@ All precomputed datasets and models are available here [Google Drive](https://dr
 
 ## Cite this work (TODO)
 ```
+@misc{bhan2024adaptivecontrolreactiondiffusionpdes,
+      title={Adaptive control of reaction-diffusion PDEs via neural operator-approximated gain kernels}, 
+      author={Luke Bhan and Yuanyuan Shi and Miroslav Krstic},
+      year={2024},
+      eprint={2407.01745},
+      archivePrefix={arXiv},
+      primaryClass={eess.SY},
+      url={https://arxiv.org/abs/2407.01745}, 
+}
 ```
 
 ## Questions
